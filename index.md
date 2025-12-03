@@ -9,3 +9,7 @@ im commiting this after creating a heading
 ``` golang
 x := apple
 ```
+
+- [x] task1
+- [x] task2
+- [ ] task3
